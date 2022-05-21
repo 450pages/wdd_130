@@ -1,0 +1,134 @@
+/*https://coolors.co/0d1321-ffeddf-c5d86d-86615c-afe0ce       #86615C*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300&family=Rock+Salt&display=swap');
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a{
+    text-align: center;
+    color: #546A7B;
+    text-decoration: none;
+    padding: 35px;
+}
+#hero-meg h1, #hero-meg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background{
+    height: 75px;
+    background-color: #546A7B;
+}
+body{
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 22px;
+    background-color: #62929E;
+    color: #C6C5B9;
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-family: "Rock Salt";
+    background-color: #546A7B;
+    color: #FDFDFF;
+}
+nav a:hover{
+    background-color: #62929E;
+    color: #FDFDFF;
+}
+.book, .join{
+    font-size: 18px;
+    background-color: #546A7B;
+    color:#FDFDFF;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.book:hover, join:hover{ 
+    background-color: #62929E;
+    color: #FDFDFF;
+    margin-top: 50px;
+}
+.msg{
+    line-height: 1.5em;
+    background-color: #86615C;
+    color: #546A7B;
+    padding: 35px;
+}
+footer{
+    background-color: #86615C; 
+    color: #C6C5B9;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+.home-title{
+    font-family: "Rock Salt";
+    font-size: 2em;
+    color: #FDFDFF;
+    margin-top: 10px;
+}
+h4{
+    color: #FDFDFF
+}
+.msg h2 {
+    font-family: "Rock Salt";
+    color: #C6C5B9;
+}
+.msg p{
+    font-size: .8em;
+    color: #C6C5B9;
+    padding-bottom: 15px;
+}
+.msg p{
+    font-size: .8em;
+    color: #C6C5B9
+}
+footer h3{
+    color: #FDFDFF
+}
+footer a{
+    text-decoration: none;
+    color: #C6C5B9
+}
+footer a:hover{
+    text-decoration: underline;
+    color: #62929E
+}
+.logo{
+    width: 80px;
+}
+.icon{
+    width: 80px;
+    padding-top: 10px;
+}
+#hero-img{
+    width: 100%;
+}
+h2{
+    margin: 0;
+}
+logo_link{
+    padding-top: 5px;
+}
+footer .social img {
+    padding-top: 15px;
+}
+.rivers-card{
+    margin: 200px 0;
+}
+.camping-card{
+    margin: 200px 0;
+}
+.rapids-card{
+    margin: 200px 0;
+}
+.card-img{
+    border: 10px solid #000000; 
+}
+main section img {
+    box-sizing: border-box;
+}
